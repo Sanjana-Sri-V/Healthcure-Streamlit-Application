@@ -1,0 +1,4 @@
+streamlit run "C:\Users\Earc\Desktop\Multiple diease prdiction\Multiple disease predict.py"
+
+streamlit
+streamlit-option-menu
